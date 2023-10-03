@@ -2,6 +2,8 @@
 .bgimage {
     height:100vh;
     background: url('Sandy1.jpg');
+    background-position: center; 
+    background-repeat: no-repeat;
     background-size:cover;
     position:relative;
 }
